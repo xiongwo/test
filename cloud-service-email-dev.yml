@@ -1,0 +1,6 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: a1yong3bai@163.com
+    password: ENC(mkHMcvqOKbzX4TjfUmgXzKAxnyDKYgBXpldzQCNfpSEdAX4QvgYUS7uC6mkQo4zSivpu1JJ3hHmP2yS7bJNz5Q==)
+    port: 25
