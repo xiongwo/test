@@ -2,4 +2,4 @@ limit:
   ip:
     number: 10
     minSafeTime: 5000
-    limitedTime: 60000
+    limitedTime: 600000
