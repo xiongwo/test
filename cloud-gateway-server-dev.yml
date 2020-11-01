@@ -1,5 +1,5 @@
 limit:
   ip:
-    number: 100
+    number: 120
     minSafeTime: 60000
     limitedTime: 600000
